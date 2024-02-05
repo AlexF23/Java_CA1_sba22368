@@ -9,4 +9,11 @@ Jane Doe
 44PUP3356
 Justin case
 1
-55PUP4478
+55PUP447833PUP1234-Fay
+Part Time
+22PUP2235-smith
+Part Time
+44PUP3356-Doe
+Part Time
+55PUP4478-case
+Very Light
